@@ -201,6 +201,10 @@ main {
   font-size: 2.5rem;
 }
 
+.cast_none {
+  filter: grayscale(100%);
+}
+
 .cast__container {
   width: 100%;
   display: flex;
